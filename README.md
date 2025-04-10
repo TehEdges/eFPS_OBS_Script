@@ -11,7 +11,6 @@ Created by **SirEdges**.
 - Connects to a SF API to fetch live HL2DM servers.
 - Dynamically updates a selected OBS browser source with the proper overlay URL.
 - Optional parameters for centering the overlay and setting a display delay.
-- Secure token-based API usage.
 - Quick server list refresh directly within OBS UI.
 
 ---
