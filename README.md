@@ -1,6 +1,6 @@
 # OBS SF Streamer Overlay Plugin
 
-A custom OBS plugin (script) that dynamically loads and applies SF streamer overlays from a remote server. Built to simplify integration of live game server data into your OBS scenes.
+A custom OBS plugin (script) that dynamically loads the list of available servers connected to the SF Overlay and allows the end user to quickly select which server to display the overlay interface for. Built to simplify integration of live game server data into your OBS scenes.
 
 Created by **SirEdges**.
 
