@@ -8,7 +8,7 @@ Created by **SirEdges**.
 
 ## 🔧 Features
 
-- Connects to a SourceFusion API to fetch live SRCDS servers.
+- Connects to a SF API to fetch live SRCDS servers.
 - Dynamically updates a selected OBS browser source with the proper overlay URL.
 - Optional parameters for centering the overlay and setting a display delay.
 - Secure token-based API usage.
